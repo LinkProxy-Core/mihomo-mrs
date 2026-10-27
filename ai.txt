@@ -24,6 +24,7 @@
 +.api.microsoftapp.net
 +.api.statsig.com
 +.arena.ai
++.artificialanalysis.ai
 +.atmeta.com
 +.augmentcode.com
 +.auth0.com
@@ -78,6 +79,7 @@
 +.comfyregistry.org
 +.commandcode.ai
 +.console.aws.a2z.com
++.context7.com
 +.continue.dev
 +.copilot-stg.com
 +.copilot.cloud.microsoft
@@ -135,7 +137,6 @@
 +.grokipedia.com
 +.groq.com
 +.h2o.ai
-+.hermes-agent.nousresearch.com
 +.heygen.com
 +.hf.co
 +.hf.space
@@ -180,6 +181,7 @@
 +.marscode.com
 +.mcpservertest.online
 +.meta.ai
++.metaaiusercontent.com
 +.metaaivm.com
 +.midjourney.com
 +.minimax.io
@@ -197,6 +199,7 @@
 +.notebooklm.google
 +.notebooklm.google.com
 +.notegpt.io
++.nousresearch.com
 +.novelai.net
 +.novita.ai
 +.oaistatic.com
