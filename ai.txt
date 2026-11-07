@@ -323,6 +323,7 @@ gateway.bingviz.microsoft.net
 gateway.bingviz.microsoftapp.net
 geminiweb-pa.clients.google.com
 geminiweb-pa.clients6.google.com
+http-intake.logs.us5.datadoghq.com
 idetoolkits-hostedfiles.amazonaws.com
 idetoolkits.amazonwebservices.com
 in.appcenter.ms
@@ -338,6 +339,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaicomproductionae4b.blob.core.windows.net
 ppl-ai-file-upload.s3.amazonaws.com
 pplx-res.cloudinary.com
+production-copilot-host-westus.webpubsub.azure.com
 production-openaicom-storage.azureedge.net
 q-developer-integration.us-east-1.api.aws
 r.bing.com
