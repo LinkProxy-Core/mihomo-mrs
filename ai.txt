@@ -134,6 +134,7 @@
 +.grazie.aws.intellij.net
 +.grok.com
 +.grok.x.com
++.grokbot.com
 +.grokipedia.com
 +.groq.com
 +.h2o.ai
